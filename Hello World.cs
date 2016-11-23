@@ -1,4 +1,4 @@
-//Sample Project.
+//Sample Project. Github.
 // Hello World.cs
 public class Hello1
 {

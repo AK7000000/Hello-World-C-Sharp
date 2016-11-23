@@ -1,4 +1,4 @@
-//Microsoft Inc.
+//Sample Project.
 // Hello World.cs
 public class Hello1
 {
